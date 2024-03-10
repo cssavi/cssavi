@@ -5,7 +5,7 @@ I am a tinkerer and incoming chief vibes officer. I enjoy the thrill of working 
 ## 🤌 Public Projects
 
 - [UT-gpt](https://www.utgpt.dev/) (ed tech) - An AI academic advisor trained on courses, degree requirements, and official university documents
-- [ConocoPhillips ML Research](https://colab.research.google.com/drive/1ql-owag8wF0m1JnmsRed7XQTnsyedbbp?usp=sharing) (ml model) - Predicting Texas energy grid load using climate data to help prepare for future winter storms
+- [ConocoPhillips ML Research](https://colab.research.google.com/drive/1ql-owag8wF0m1JnmsRed7XQTnsyedbbp?usp=sharing) (ml model) - Predicting Texas energy grid load using climate data to prepare for future winter storms
 
 ## 🔗 Featured Links
 
