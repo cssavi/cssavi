@@ -1,5 +1,7 @@
 ## Hey, I'm Savi!
 
+![Hookem](hookem.png)
+
 I am a tinkerer and incoming chief vibes officer. I enjoy the thrill of working on projects and receiving terrible feedback from users and constantly iterating it to be a bit better. I enjoy building backend tech using Python, Rust, and Go (currently learning). My origin story is that in 2020 my friends and I built Teens4Help. A website where the immunocompromised in Houston could order groceries to their homes for free. We were able to connect hundreds of volunteers with the thousands in need and even partnered with the Houston Mayor's team. I have since been excited by the idea of creating applications for the greater good and plan on continuing the journey!
 
 ## 🤌 Public Projects
